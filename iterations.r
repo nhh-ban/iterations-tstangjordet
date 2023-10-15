@@ -46,6 +46,13 @@ source("functions/data_tests.r")
 test_stations_metadata(stations_metadata_df)
 
 
+
+# I didn't manage to solve the volume tasks in problem 4 and 5. I'm gonna check
+# out the solution when it is published.
+
+
+
+
 ### 5: Final volume query: 
 
 source("gql-queries/vol_qry.r")
